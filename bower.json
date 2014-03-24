@@ -1,0 +1,17 @@
+{
+  "name": "jquery.slimscroll",
+  "version": "1.3.2",
+  "authors": [
+    "tsteele <aeal5566@gmail.com>"
+  ],
+  "description": "slim scroll for jquery",
+  "main": "jquery.slimscroll.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
